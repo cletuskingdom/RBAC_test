@@ -1,0 +1,11 @@
+{
+  "overrides": [
+    {
+      "file": "header.ejs",
+      "options": {
+        "htmlWhitespaceSensitivity": "ignore",
+        "ignorePath": "prettier-ignore"
+      }
+    }
+  ]
+}
